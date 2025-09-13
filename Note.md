@@ -27,6 +27,8 @@ reference : [git alias list](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docse
 | g     | git           |
 | ga    | git add       |
 | gaa   | git add --all |
+| gb    | git branch    |
+| gl    | git pull      |
 
 ### Git Aliases
 
